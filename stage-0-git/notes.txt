@@ -1,0 +1,2 @@
+Today I started learning Git.
+I learned about init, add, commit, and checkout.
