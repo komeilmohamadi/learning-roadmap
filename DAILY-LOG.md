@@ -24,3 +24,9 @@ git branch -d <branch>
 
 ### Next
 Day 3: rebase, stash, clean history
+
+## 2026-02-02 — Day 3 (Git)
+ 
+
+ ### Focus
+ how to use diff

@@ -25,3 +25,12 @@ Practiced professional Git workflows including branching, merging, and resolving
 
 ### Reflection
 Learning how to resolve merge conflicts manually helped me understand how teams collaborate safely on shared codebases.
+
+## Day 3 — Diff
+
+practiced diff learn how to use 
+### What I learned
+
+### Implementation
+
+### Reflection
