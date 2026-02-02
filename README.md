@@ -14,3 +14,4 @@ Day 2:
 - branch
 - switch branch
 - delete branch 
+- confilict

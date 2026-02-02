@@ -6,7 +6,7 @@ Commands used:
 git branch
 git branch (name new branch)
 git switch
-
+git switch -c (new branch name)
 git merge (branch name)
 
 # Day 2 — Git Branch, Merge, Conflict
@@ -34,7 +34,6 @@ A merge conflict happens when Git cannot automatically combine changes.
 
 ## How I resolved it
 1. Opened the conflicted file
-2. Removed conflict markers (<<<<<<<, =======, >>>>>>>)
+2. Removed conflict markers
 3. Combined the content into one final version
 4. Ran git add and committed the resolution
-
