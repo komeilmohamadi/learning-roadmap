@@ -23,14 +23,17 @@ Practiced professional Git workflows including branching, merging, and resolving
 - Notes & practice: [`stage-0-git/DAY2.md`](stage-0-git/DAY2.md)
 - Conflict simulation and resolution committed to main branch
 
-### Reflection
-Learning how to resolve merge conflicts manually helped me understand how teams collaborate safely on shared codebases.
+## Day 3 — Git Diff
 
-## Day 3 — Diff
+Practiced using git diff to review and compare changes before committing.
 
-practiced diff learn how to use 
 ### What I learned
+- Comparing working directory, staging area, and commits
+- Reviewing changes before commit
+- Understanding how git diff helps prevent mistakes
 
 ### Implementation
+- Notes & practice: [`stage-0-git/DAY3.md`](stage-0-git/DAY3.md)
 
 ### Reflection
+Using git diff before committing helps catch mistakes early and keeps commit history clean.

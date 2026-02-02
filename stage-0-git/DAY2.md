@@ -1,14 +1,4 @@
 
-What I practiced today:
-how i can build branch 
-how to switch between branch 
-Commands used:
-git branch
-git branch (name new branch)
-git switch
-git switch -c (new branch name)
-git merge (branch name)
-git add .
 # Day 2 — Git Branch, Merge & Conflict
 
 ## What I practiced
