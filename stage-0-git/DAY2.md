@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 What I practiced today:
 how i can build branch 
 how to switch between branch 
@@ -6,11 +6,9 @@ Commands used:
 git branch
 git branch (name new branch)
 git switch
-<<<<<<< HEAD
+
 git merge (branch name)
-=======
->>>>>>> day2-git-workflow
-=======
+
 # Day 2 — Git Branch, Merge, Conflict
 
 ## What I practiced
@@ -18,6 +16,7 @@ git merge (branch name)
 - Committing meaningful changes
 - Merging into main
 - Creating and resolving merge conflicts
+- switch between branch
 - Delete branch
 ## Commands I used
 - git checkout -b <branch>
@@ -38,4 +37,4 @@ A merge conflict happens when Git cannot automatically combine changes.
 2. Removed conflict markers (<<<<<<<, =======, >>>>>>>)
 3. Combined the content into one final version
 4. Ran git add and committed the resolution
->>>>>>> merge2
+
