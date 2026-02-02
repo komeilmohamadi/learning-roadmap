@@ -26,7 +26,22 @@ git branch -d <branch>
 Day 3: rebase, stash, clean history
 
 ## 2026-02-02 — Day 3 (Git)
- 
 
- ### Focus
- how to use diff
+### Focus
+Git diff, restore/reset/revert, stash
+
+### What I did
+- Practiced git diff in multiple modes
+- Learned how to undo changes safely using restore, reset, and revert
+- Navigated commit history using HEAD~N
+- Practiced managing unfinished work with git stash
+
+### Output
+- Notes: [stage-0-git/DAY3.md](stage-0-git/DAY3.md)
+
+### Problems / Fixes
+- git restore did not work on untracked files → learned the difference between tracked and untracked files
+- Case-sensitive file path issues → fixed by using correct file paths
+
+### Next
+Finish GitHub & Remote workflow (clone, pull, fetch, PR, fork, pages)

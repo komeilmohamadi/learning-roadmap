@@ -23,17 +23,19 @@ Practiced professional Git workflows including branching, merging, and resolving
 - Notes & practice: [`stage-0-git/DAY2.md`](stage-0-git/DAY2.md)
 - Conflict simulation and resolution committed to main branch
 
-## Day 3 — Git Diff
+## Day 3 — Git Diff, Restore/Reset/Revert & Stash
 
-Practiced using git diff to review and compare changes before committing.
+Practiced reviewing changes and safely undoing mistakes using advanced Git commands.
 
 ### What I learned
-- Comparing working directory, staging area, and commits
-- Reviewing changes before commit
-- Understanding how git diff helps prevent mistakes
+- Using git diff to compare changes before committing
+- Understanding the differences between restore, reset, and revert
+- Navigating commit history using HEAD~N
+- Managing unfinished work with git stash
 
 ### Implementation
 - Notes & practice: [`stage-0-git/DAY3.md`](stage-0-git/DAY3.md)
 
 ### Reflection
-Using git diff before committing helps catch mistakes early and keeps commit history clean.
+Learning how to review and undo changes safely is essential for maintaining a clean Git history and collaborating with confidence.
+
