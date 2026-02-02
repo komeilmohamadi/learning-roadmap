@@ -15,3 +15,4 @@ Day 2:
 - switch branch
 - delete branch 
 - confilict
+- type 2 of merge
