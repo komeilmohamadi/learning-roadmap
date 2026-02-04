@@ -45,3 +45,23 @@ Git diff, restore/reset/revert, stash
 
 ### Next
 Finish GitHub & Remote workflow (clone, pull, fetch, PR, fork, pages)
+## 2026-02-03 — Day 4 (Git)
+
+### Focus
+GitHub remote, push & pull, fetch, GitHub Pages
+
+### What I did
+- Connected the local repository to GitHub
+- Practiced pushing and pulling changes
+- Learned the difference between git fetch and git pull
+- Created and deployed a demo using GitHub Pages
+
+### Output
+- Notes: [stage-0-git/DAY4.md](stage-0-git/DAY4.md)
+- Live demo deployed via GitHub Pages
+
+### Problems / Fixes
+- Confusion between fetch and pull → resolved by testing both commands on remote changes
+
+### Next
+Team collaboration: Pull Request, Fork, gitignore, tags

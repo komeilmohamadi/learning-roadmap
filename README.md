@@ -39,3 +39,19 @@ Practiced reviewing changes and safely undoing mistakes using advanced Git comma
 ### Reflection
 Learning how to review and undo changes safely is essential for maintaining a clean Git history and collaborating with confidence.
 
+## Day 4 — GitHub Remote, Fetch/Pull & Pages
+
+Practiced working with remote repositories, synchronizing changes, and deploying a live demo using GitHub Pages.
+
+### What I learned
+- Connecting local and remote repositories
+- Pushing and pulling commits
+- Understanding the difference between fetch and pull
+- Deploying projects using GitHub Pages
+
+### Implementation
+- Notes & practice: [`stage-0-git/DAY4.md`](stage-0-git/DAY4.md)
+- Live demo: https://komeilmohamadi.github.io/learning-roadmap/
+
+### Reflection
+Understanding remote workflows and using fetch before pull helps avoid conflicts and keeps collaboration safe.
