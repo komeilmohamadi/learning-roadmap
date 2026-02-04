@@ -51,7 +51,6 @@ Practiced working with remote repositories, synchronizing changes, and deploying
 
 ### Implementation
 - Notes & practice: [`stage-0-git/DAY4.md`](stage-0-git/DAY4.md)
-- Live demo: https://komeilmohamadi.github.io/learning-roadmap/
 
 ### Reflection
 Understanding remote workflows and using fetch before pull helps avoid conflicts and keeps collaboration safe.
