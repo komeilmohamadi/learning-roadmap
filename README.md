@@ -54,3 +54,23 @@ Practiced working with remote repositories, synchronizing changes, and deploying
 
 ### Reflection
 Understanding remote workflows and using fetch before pull helps avoid conflicts and keeps collaboration safe.
+
+## Day 5 — GitHub Collaboration, README & Versioning
+
+Completed advanced GitHub workflows including documentation, collaboration, and versioning.
+
+### What I learned
+- Writing professional README files using Markdown
+- Using Markdown syntax for headings, lists, tables, links, and code blocks
+- Adding repository badges with shields.io
+- Managing collaborators in private repositories
+- Working with Pull Requests from feature branches
+- Forking repositories and contributing via Pull Requests
+- Using .gitignore to exclude unnecessary files
+- Creating and managing Git tags for versioning and releases
+
+### Implementation
+- Notes & practice: [`stage-0-git/DAY5.md`](stage-0-git/DAY5.md)
+
+### Reflection
+Learning collaboration workflows and versioning practices made me more confident to work on real-world and open-source projects.

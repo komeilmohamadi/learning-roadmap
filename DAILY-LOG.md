@@ -65,3 +65,26 @@ GitHub remote, push & pull, fetch, GitHub Pages
 
 ### Next
 Team collaboration: Pull Request, Fork, gitignore, tags
+
+## 2026-02-04 — Day 5 (Git)
+
+### Focus
+GitHub collaboration, README documentation, Fork workflow, and versioning
+
+### What I did
+- Practiced writing professional README files using Markdown
+- Learned core Markdown syntax (headings, lists, tables, links, images, code blocks)
+- Added repository badges using shields.io
+- Worked with Pull Requests and branch-based workflows
+- Managed collaborators in private repositories
+- Practiced Fork workflow and contributing via Pull Requests
+- Used .gitignore to keep the repository clean
+- Created and managed Git tags for versioning
+
+### Output
+- Notes: stage-0-git/DAY5.md
+- Repository finalized and prepared for version 1 release
+
+### Next
+Start HTML & CSS fundamentals (beginning of full-stack development)
+
