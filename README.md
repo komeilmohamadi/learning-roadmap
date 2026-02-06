@@ -74,3 +74,21 @@ Completed advanced GitHub workflows including documentation, collaboration, and 
 
 ### Reflection
 Learning collaboration workflows and versioning practices made me more confident to work on real-world and open-source projects.
+
+## Day 6 — HTML Foundations & Environment Setup
+
+Started **Stage 1 (HTML & CSS)** and focused on setting up the development environment and learning core HTML concepts.
+
+### What I learned
+- Efficient usage of Visual Studio Code (search, replace, extensions, shortcuts)
+- Understanding file types used in web development (.html, .css, .js, .php)
+- Core HTML structure and essential tags
+- Difference between container tags and self-closing tags
+- HTML attributes (global vs tag-specific)
+- Basic CSS concepts and inline styling
+
+### Implementation
+- Notes & practice: [`stage-1-html-css/DAY6.md`](stage-1-html-css/DAY6.md)
+
+### Reflection
+Building a strong foundation in HTML and tooling is essential before moving into layout, styling, and JavaScript.

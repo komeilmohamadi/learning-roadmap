@@ -88,3 +88,26 @@ GitHub collaboration, README documentation, Fork workflow, and versioning
 ### Next
 Start HTML & CSS fundamentals (beginning of full-stack development)
 
+## 2026-02-05 — Day 6 (HTML & CSS)
+
+### Focus
+HTML fundamentals and development environment setup
+
+### What I did
+- Entered Stage 1 (HTML & CSS)
+- Reviewed Visual Studio Code features for efficient development
+- Practiced working with different file types (.html, .css, .js, .php)
+- Learned core HTML structure and essential tags
+- Studied tag categories (container vs self-closing)
+- Practiced using attributes (global and specific)
+- Learned CSS basics and inline styling concepts
+
+### Output
+- Notes: stage-1-html-css/DAY6.md
+- Stage 1 folder structure finalized
+
+### Language
+- English study: 5 sessions completed
+
+### Next
+HTML semantic tags, forms, and structure practice
