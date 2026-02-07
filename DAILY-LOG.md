@@ -111,3 +111,25 @@ HTML fundamentals and development environment setup
 
 ### Next
 HTML semantic tags, forms, and structure practice
+## 2026-02-08 — Day 7 (HTML/CSS)
+
+### Focus
+Internal CSS, selectors, box model, display, flexbox basics, pseudo-classes
+
+### What I did
+- Practiced internal CSS using a `<style>` block
+- Learned and practiced core CSS selectors (class, id, combinators, universal)
+- Worked with attribute selectors and selector combinations
+- Studied box model concepts (margin, padding, default spacing)
+- Practiced display modes (block, inline, inline-block, none)
+- Learned flexbox basics (justify-content, align-items) with parent/child layout thinking
+- Practiced pseudo-classes (:hover, :active, :first-child, :last-child, :nth-child, :only-child)
+
+### Output
+- Notes: stage-1-html-css/DAY7.md
+
+### Notes
+- 2026-02-07: No study session (rest day)
+
+### Next
+Continue CSS layout: flexbox practice + small UI section (header/cards) using clean structure

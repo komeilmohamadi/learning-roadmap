@@ -92,3 +92,17 @@ Started **Stage 1 (HTML & CSS)** and focused on setting up the development envir
 
 ### Reflection
 Building a strong foundation in HTML and tooling is essential before moving into layout, styling, and JavaScript.
+## Day 7 — CSS Selectors, Box Model, Display & Flexbox Basics
+
+Expanded CSS fundamentals with internal styling, advanced selectors, and layout basics including display modes and flexbox.
+
+### What I learned
+- Internal CSS using `<style>` and clean rule structure
+- CSS selectors (class, id, combinators, universal, attribute selectors)
+- Box model (margin/padding/default spacing) and DevTools inspection
+- Display modes (block/inline/inline-block/none)
+- Flexbox fundamentals (justify-content, align-items)
+- Pseudo-classes (:hover, :active, :first-child, :last-child, :nth-child, :only-child)
+
+### Implementation
+- Notes & practice: [`stage-1-html-css/DAY7.md`](stage-1-html-css/DAY7.md)
