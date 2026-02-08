@@ -106,3 +106,22 @@ Expanded CSS fundamentals with internal styling, advanced selectors, and layout 
 
 ### Implementation
 - Notes & practice: [`stage-1-html-css/DAY7.md`](stage-1-html-css/DAY7.md)
+## Day 8 — CSS Flexbox Deep Dive & Practical Layouts
+
+Focused on strengthening layout skills by going deeper into Flexbox and building practical, real-world layouts.
+
+### What I learned
+- Flexbox axis model (main axis vs cross axis)
+- `flex-direction`, `flex-wrap`, and `flex-flow`
+- `justify-content` vs `align-items` vs `align-content`
+- Using `gap` instead of margins in flex layouts
+- Flex item properties (`flex-grow`, `flex-shrink`, `flex-basis`)
+- Proper centering techniques with Flexbox
+- Common Flexbox layout patterns (navbar, cards, columns)
+
+### Implementation
+- Notes & practice: [`stage-1-html-css/DAY8.md`](stage-1-html-css/DAY8.md)
+
+### Reflection
+Flexbox finally feels predictable instead of trial-and-error.
+Understanding axes and item behavior made layout debugging much easier.

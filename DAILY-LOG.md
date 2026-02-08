@@ -133,3 +133,41 @@ Internal CSS, selectors, box model, display, flexbox basics, pseudo-classes
 
 ### Next
 Continue CSS layout: flexbox practice + small UI section (header/cards) using clean structure
+## 2026-02-08 — Day 8 (Stage 1: HTML & CSS)
+
+### Focus
+Deep dive into CSS Flexbox and practical layout building.
+
+### What I did
+- Reviewed Flexbox axes and alignment logic
+- Practiced container and item properties
+- Built common layouts using Flexbox (centering, navbar, cards)
+- Debugged layouts using browser DevTools
+- Fixed common Flexbox mistakes
+
+### Output
+- Flexbox practice notes and examples
+- Day 8 documentation: `stage-1-html-css/DAY8.md`
+
+### Next
+Start responsive layouts and prepare for CSS Grid.
+
+## 2026-02-09 — Day 9 (Stage 1: HTML & CSS)
+
+### Focus
+Deep dive into CSS selectors, relationships, and pseudo-classes.
+
+### What I did
+- Practiced universal and grouping selectors
+- Worked with AND selectors and selector specificity
+- Learned descendant, child, and sibling selectors
+- Used attribute selectors with different matching patterns
+- Practiced pseudo-classes for interaction and structure
+- Improved selector logic and targeting accuracy
+
+### Output
+- CSS selector notes and explanations
+- Day documentation: `stage-1-html-css/DAY9.md`
+
+### Next
+Move into responsive design with media queries and real layout scenarios.
