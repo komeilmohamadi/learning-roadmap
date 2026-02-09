@@ -125,3 +125,23 @@ Focused on strengthening layout skills by going deeper into Flexbox and building
 ### Reflection
 Flexbox finally feels predictable instead of trial-and-error.
 Understanding axes and item behavior made layout debugging much easier.
+
+## Day 10 — PHP Basics: Environment, Variables, Data Types & Arrays
+
+Started **Stage 2 (PHP)** by setting up the local environment and learning the core building blocks of PHP programming.
+
+### What I learned
+- Setting up a local PHP development environment
+- PHP syntax basics and PHP tags
+- Variables and naming conventions
+- Data types in PHP
+- Working with strings and concatenation
+- Operators and arithmetic logic
+- Arrays and basic array operations
+
+### Implementation
+- Notes & practice: [`stage-2-php/DAY10.md`](stage-2-php/DAY10.md)
+
+### Reflection
+Understanding PHP fundamentals made backend concepts clearer.
+These basics form the foundation of every real-world PHP and backend application.

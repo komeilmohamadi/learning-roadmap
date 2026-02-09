@@ -171,3 +171,23 @@ Deep dive into CSS selectors, relationships, and pseudo-classes.
 
 ### Next
 Move into responsive design with media queries and real layout scenarios.
+
+## 2026-02-10 — Day 10 (Stage 2: PHP)
+
+### Focus
+Learning PHP fundamentals and setting up the local development environment.
+
+### What I did
+- Installed and configured PHP local environment
+- Learned PHP syntax and structure
+- Practiced variables and naming conventions
+- Worked with data types and strings
+- Practiced operators and arithmetic logic
+- Learned array basics and operations
+
+### Output
+- PHP fundamentals documentation
+- Day notes: `stage-2-php/DAY10.md`
+
+### Next
+Learn conditional statements (if / else) and comparison operators.
