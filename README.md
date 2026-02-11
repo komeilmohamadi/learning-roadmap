@@ -145,3 +145,23 @@ Started **Stage 2 (PHP)** by setting up the local environment and learning the c
 ### Reflection
 Understanding PHP fundamentals made backend concepts clearer.
 These basics form the foundation of every real-world PHP and backend application.
+
+## Day 11 — PHP Control Flow: Conditionals, Logic, Switch, Loops & Associative Arrays
+
+Continued **Stage 2 (PHP)** by learning how to control program flow using conditions, comparisons, logical operators, switches, loops, and associative arrays.
+
+### What I learned
+- Conditional statements (`if`, `elseif`, `else`) for decision making
+- Comparison operators and the difference between `==` and `===`
+- Logical operators (`&&`, `||`, `!`) for combining conditions
+- Ternary operator for short, readable one-line conditions
+- `switch` for handling many known cases cleanly
+- Loops (`for`, `foreach`, `while`, `do...while`) and when to use each
+- Associative arrays (key/value) for meaningful data structure
+
+### Implementation
+- Notes & practice: [`stage-2-php/DAY11.md`](stage-2-php/DAY11.md)
+
+### Reflection
+Control flow is where PHP starts to feel like real programming.
+With conditions, loops, and associative arrays, I can now build logic-driven scripts instead of just printing values.

@@ -191,3 +191,24 @@ Learning PHP fundamentals and setting up the local development environment.
 
 ### Next
 Learn conditional statements (if / else) and comparison operators.
+
+## 2026-02-11 — Day 11 (Stage 2: PHP)
+
+### Focus
+Learning PHP control flow: conditions, comparisons, logic, switch, loops, and associative arrays.
+
+### What I did
+- Practiced `if / elseif / else` to control execution flow
+- Learned comparison operators and the difference between `==` and `===`
+- Used logical operators (`&&`, `||`, `!`) to combine conditions
+- Practiced ternary operator for short conditional output
+- Learned `switch` for handling multiple known cases
+- Practiced loops (`for`, `foreach`, `while`, `do...while`)
+- Worked with associative arrays (key/value)
+
+### Output
+- Control flow & data structures notes
+- Day documentation: `stage-2-php/DAY11.md`
+
+### Next
+Work on functions and reusability (parameters, return values), and start building small PHP mini-projects.
