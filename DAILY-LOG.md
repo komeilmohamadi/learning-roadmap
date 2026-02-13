@@ -212,3 +212,24 @@ Learning PHP control flow: conditions, comparisons, logic, switch, loops, and as
 
 ### Next
 Work on functions and reusability (parameters, return values), and start building small PHP mini-projects.
+
+## 2026-02-12 — Day 12 (Stage 2: PHP)
+
+### Focus
+Functions, scope, memory behavior, and built-in utilities in PHP.
+
+### What I did
+- Structured data using nested arrays
+- Created reusable functions with parameters and return values
+- Practiced rest and spread operators
+- Learned global vs local scope
+- Used static to preserve values between calls
+- Practiced arrow functions
+- Explored important PHP string and array built-in functions
+
+### Output
+- Functions & utilities documentation
+- Day notes: `stage-2-php/DAY12.md`
+
+### Next
+Start building mini-projects using functions and arrays (e.g., simple user system or calculator project).

@@ -165,3 +165,24 @@ Continued **Stage 2 (PHP)** by learning how to control program flow using condit
 ### Reflection
 Control flow is where PHP starts to feel like real programming.
 With conditions, loops, and associative arrays, I can now build logic-driven scripts instead of just printing values.
+
+## Day 12 — PHP Functions, Scope, Static, Arrow Functions & Built-in Functions
+
+Continued Stage 2 (PHP) by learning how to structure reusable logic using functions, manage variable scope, understand memory behavior with static, and use important built-in PHP string and array functions.
+
+### What I learned
+- Nested arrays for structured multi-entity data
+- Creating reusable functions and understanding function calls
+- Parameters and return values
+- Rest and Spread operators
+- Variable scope (global vs local)
+- Using `static` inside functions
+- Arrow functions for short expressions
+- Important PHP string and array built-in functions
+
+### Implementation
+- Notes & practice: [`stage-2-php/DAY12.md`](stage-2-php/DAY12.md)
+
+### Reflection
+Functions and scope are where PHP becomes structured and maintainable.
+Understanding memory behavior and built-in utilities makes development faster and cleaner.
