@@ -186,3 +186,24 @@ Continued Stage 2 (PHP) by learning how to structure reusable logic using functi
 ### Reflection
 Functions and scope are where PHP becomes structured and maintainable.
 Understanding memory behavior and built-in utilities makes development faster and cleaner.
+
+## Day 14 — PHP MySQL Connection, CRUD & Prepared Statements
+
+Learned how PHP connects to MySQL using mysqli, how to execute queries, fetch results, and prevent SQL Injection using prepared statements.
+
+### What I learned
+- Connecting to MySQL using `mysqli_connect`
+- Executing queries with `mysqli_query`
+- Fetching results using `mysqli_fetch_all`
+- Understanding result types (MYSQLI_ASSOC, NUM, BOTH)
+- Performing CRUD operations (INSERT, SELECT, UPDATE, DELETE)
+- Importance of `WHERE` in UPDATE and DELETE
+- Understanding SQL Injection
+- Using Prepared Statements for secure queries
+
+### Implementation
+- Notes & practice: [`stage-2-php/DAY14.md`](stage-2-php/DAY14.md)
+
+### Reflection
+This day transformed database knowledge into real backend implementation.
+Understanding prepared statements is a major step toward writing secure and production-ready PHP code.

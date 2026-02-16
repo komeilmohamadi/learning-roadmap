@@ -233,3 +233,23 @@ Functions, scope, memory behavior, and built-in utilities in PHP.
 
 ### Next
 Start building mini-projects using functions and arrays (e.g., simple user system or calculator project).
+
+## 2026-02-14 — Day 14 (Stage 2: PHP)
+
+### Focus
+Connecting PHP to MySQL, executing CRUD operations, and securing queries.
+
+### What I did
+- Connected to database using mysqli_connect
+- Executed SELECT queries and fetched results
+- Practiced INSERT, UPDATE, DELETE operations
+- Learned importance of WHERE clause
+- Understood SQL Injection risks
+- Implemented Prepared Statements for secure queries
+
+### Output
+- Database connection & secure query documentation
+- Day notes: `stage-2-php/DAY14.md`
+
+### Next
+Refactor database logic into reusable functions and start building a mini user management system.
