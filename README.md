@@ -187,6 +187,27 @@ Continued Stage 2 (PHP) by learning how to structure reusable logic using functi
 Functions and scope are where PHP becomes structured and maintainable.
 Understanding memory behavior and built-in utilities makes development faster and cleaner.
 
+## Day 13 — PHP Superglobals, Forms, Sessions & Database Fundamentals
+
+Learned how PHP communicates with the outside world using superglobals and started the database journey (DBMS, SQL, MySQL basics).
+
+### What I learned
+- Difference between global and superglobal variables
+- Handling forms using `$_GET`, `$_POST`, and `$_FILES`
+- Using `isset()` safely with form inputs
+- Understanding `$_SERVER`
+- Cookie vs Session and state management
+- Database fundamentals (DBMS vs RDBMS)
+- SQL basics and query types
+- Database structure concepts (Primary Key, utf8mb4, VARCHAR vs TEXT)
+
+### Implementation
+- Notes & practice: [`stage-2-php/DAY13.md`](stage-2-php/DAY13.md)
+
+### Reflection
+This day marked the transition from basic PHP scripts to real web backend concepts, including user input handling and database architecture.
+
+
 ## Day 14 — PHP MySQL Connection, CRUD & Prepared Statements
 
 Learned how PHP connects to MySQL using mysqli, how to execute queries, fetch results, and prevent SQL Injection using prepared statements.

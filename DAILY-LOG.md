@@ -234,6 +234,28 @@ Functions, scope, memory behavior, and built-in utilities in PHP.
 ### Next
 Start building mini-projects using functions and arrays (e.g., simple user system or calculator project).
 
+## 2026-02-13 — Day 13 (Stage 2: PHP)
+
+### Focus
+Superglobals, form handling, session management, and database fundamentals.
+
+### What I did
+- Studied global vs superglobal variables
+- Worked with $_GET, $_POST, $_FILES, $_SERVER
+- Learned safe form handling using isset()
+- Understood Cookie vs Session
+- Learned DBMS vs RDBMS concepts
+- Studied SQL and main query types
+- Reviewed PHP database connection methods
+
+### Output
+- Superglobals & database fundamentals documentation
+- Day notes: `stage-2-php/DAY13.md`
+
+### Next
+Implement real PHP-to-MySQL connection and execute first database queries.
+
+
 ## 2026-02-14 — Day 14 (Stage 2: PHP)
 
 ### Focus
