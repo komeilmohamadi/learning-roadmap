@@ -275,3 +275,26 @@ Connecting PHP to MySQL, executing CRUD operations, and securing queries.
 
 ### Next
 Refactor database logic into reusable functions and start building a mini user management system.
+
+## 2026-02-15 — Day 15 (Stage 2: PHP / SQL)
+
+### Focus
+SQL essentials: aliases, sorting, pagination, NULL handling, aggregates, and filtering patterns.
+
+### What I did
+- Learned SQL terminology: clauses (SELECT/FROM/WHERE/ORDER BY/LIMIT/OFFSET)
+- Practiced aliases using AS and computed columns in SELECT
+- Learned why SELECT * is not ideal in real projects
+- Practiced ORDER BY (ASC/DESC and multi-column sorting)
+- Studied LIMIT/OFFSET for pagination
+- Learned NULL checks using IS NULL / IS NOT NULL
+- Practiced aggregate functions (MIN/MAX/SUM/AVG)
+- Learned IN/NOT IN, BETWEEN, and LIKE patterns
+- Memorized clause order for clean query writing
+
+### Output
+- SQL essentials documentation
+- Day notes: `stage-2-php/DAY15.md`
+
+### Next
+Practice GROUP BY and HAVING, then start building a small CRUD mini-project using PHP + MySQL.

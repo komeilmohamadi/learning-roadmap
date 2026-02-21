@@ -228,3 +228,25 @@ Learned how PHP connects to MySQL using mysqli, how to execute queries, fetch re
 ### Reflection
 This day transformed database knowledge into real backend implementation.
 Understanding prepared statements is a major step toward writing secure and production-ready PHP code.
+
+## Day 15 — SQL Essentials: Aliases, Filtering, Sorting & Aggregates
+
+Continued SQL fundamentals by learning how to write cleaner and more practical queries using aliases, selecting only needed columns, sorting, pagination, NULL handling, aggregate functions, and pattern matching.
+
+### What I learned
+- SQL clauses (SELECT, FROM, WHERE, ORDER BY, LIMIT, OFFSET)
+- Aliases with `AS` (including computed columns in SELECT)
+- Why `SELECT *` is not recommended in real projects
+- Sorting results using `ORDER BY` (ASC/DESC and multi-column sorting)
+- Pagination using `LIMIT` and `OFFSET`
+- Handling `NULL` using `IS NULL` / `IS NOT NULL`
+- Aggregate functions: `MIN`, `MAX`, `SUM`, `AVG`
+- Filtering using `IN` / `NOT IN`, `BETWEEN`, and `LIKE`
+- Writing correct clause order for predictable queries
+
+### Implementation
+- Notes & practice: [`stage-2-php/DAY15.md`](stage-2-php/DAY15.md)
+
+### Reflection
+SQL started to feel much more practical today.
+With sorting, pagination, and filtering tools (IN/BETWEEN/LIKE), I can now write real-world queries for apps and reports.
